@@ -1,7 +1,3 @@
-# Quiz Application
-#### A simple quiz application consisting of some multiple choice questions.
-###### Focused on Javascript not on CSS.
-
 # CommonJs  vs  AMD  vs  UMD
 
 *If you are not familiar with javascript module, I highly recommend you must visit [here](../Module_patterns/README.md)*
